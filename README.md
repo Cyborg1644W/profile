@@ -7,7 +7,7 @@ Computer Science student at TUP Manila. I like building things that are useful a
 <table>
   <tr>
     <td width="80" align="center" valign="middle">
-      <img src="./assets/pawi-icon.png" alt="Pawi app icon" width="64" height="64" />
+      <img width="1024" height="1024" alt="Gemini_Generated_Image_kl125zkl125zkl12-2" src="https://github.com/user-attachments/assets/f8b0cb0d-8d3f-4ebb-80e4-c0ae99e7c797" />
     </td>
     <td valign="middle">
       <strong>Pawi – Study Timer & Stats</strong><br/>
