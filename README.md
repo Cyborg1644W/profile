@@ -23,12 +23,6 @@ Computer Science student at TUP Manila. I like building things that are useful a
   </tr>
 </table>
 
-### ⚙️ Tech Stack
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,android,git,idea,vscode" alt="Tech Stack" />
-</a>
-
 ### 🔗 Connect With Me
 
 <p align="left">
