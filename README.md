@@ -1,50 +1,49 @@
 # Reindel Andrada
-Computer Science student at TUP Manila. I like building things that are useful and clear.
-Featured
+
+Computer Science student at TUP Manila. I like building things that are useful and clear, with a focus on backend systems engineering, clean data structures, and zero-dependency architectures.
+
+### 🌟 Featured Project
+
 <table>
   <tr>
-    <td width="72" align="center" valign="top">
+    <td width="80" align="center" valign="middle">
       <img src="./assets/pawi-icon.png" alt="Pawi app icon" width="56" height="56" />
     </td>
     <td valign="middle">
-      <strong>Pawi</strong><br/>
-      Focus timer and study tracker for Android.<br/>
+      <strong>Pawi – Study Timer & Stats</strong><br/>
+      A zero-friction Pomodoro focus timer for Android featuring a sea turtle mascot.<br/><br/>
       <a href="https://github.com/Cyborg1644W/Pawi---Study-Timer-Stats">
-        <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="20" height="20" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       </a>
-      &nbsp;
+      <!-- Replace '#' with your actual Play Store/App Store URLs when published -->
       <a href="#">
-        <img src="https://cdn.simpleicons.org/googleplay/34A853" alt="Google Play" width="20" height="20" />
+        <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" />
       </a>
-      &nbsp;
       <a href="#">
-        <img src="https://cdn.simpleicons.org/appstore/0D96F6" alt="App Store" width="20" height="20" />
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" />
       </a>
     </td>
   </tr>
 </table>
 
-Replace the # links above with your actual Play Store and App Store URLs when available.
+### 🛠️ Current Focus
+Building modular solutions like the **Shuttle Management System** (pure Java backend) and **BastionUnion** (C++ ATM simulation).
 
-Links
-<a href="https://leetcode.com/u/Reindel/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="18" height="18" />
-</a>
-&nbsp;<a href="https://leetcode.com/u/Reindel/">LeetCode</a>
+### 🔗 Connect & Explore
 
-<a href="https://reindelandrada.vercel.app/">
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Portfolio" width="18" height="18" />
-</a>
-&nbsp;<a href="https://reindelandrada.vercel.app/">Portfolio</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/reindelandrada/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://reindelandrada.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/Reindel/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/Cyborg1644W">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/reindelandrada/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="18" height="18" />
-</a>
-&nbsp;<a href="https://www.linkedin.com/in/reindelandrada/">LinkedIn</a>
-
-<a href="https://github.com/Cyborg1644W">
-  <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="18" height="18" />
-</a>
-&nbsp;<a href="https://github.com/Cyborg1644W">GitHub</a>
-
-A few more projects are pinned below.
+*A few more projects are pinned below.*
